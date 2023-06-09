@@ -1,1 +1,1 @@
-Contains all projects associated with the Lighthouse Labs Data Analytics program.
+Contains projects associated with the Lighthouse Labs Data Analytics program.
